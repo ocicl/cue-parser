@@ -1,0 +1,10 @@
+* cue-parser
+
+Simple common lisp cue parser
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shamazmazum/cue-parser.git   |
+| commit  | cc8e1dd  |
+| systems | cue-parser |
+|---------+-------------------------------------------|
+
